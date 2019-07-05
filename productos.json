@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Pastel 3",
+      "precio": 60
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": 47,
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Fresa",
+      "precio": "40",
+      "id": 6
+    },
+    {
+      "nombre": "Pay de Limon",
+      "precio": 134,
+      "id": 7
+    },
+    {
+      "nombre": "Pay de Piña",
+      "precio": 159,
+      "id": 8
+    },
+    {
+      "nombre": "Roles de Canela",
+      "precio": 12,
+      "id": 9
+    },
+    {
+      "nombre": "Pastel 5",
+      "precio": 234,
+      "id": 10
+    },
+    {
+      "nombre": "Pay de Queso",
+      "precio": 827,
+      "id": 11
+    }
+  ]
+}
